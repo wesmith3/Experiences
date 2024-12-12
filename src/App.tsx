@@ -2,6 +2,7 @@ import { Routes, Route } from 'react-router-dom'
 
 import './globals.css'
 import SigninForm from './_auth/forms/SigninForm'
+import Home from './_root/pages/Home'
 
 function App() {
   return (
