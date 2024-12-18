@@ -9,9 +9,13 @@ function AuthLayout() {
       <Navigate to="/" />
      ):(
       <>
-        <section>
+        <section className='flex flex-1 justify-center items-center flex-col'>
           <Outlet />
         </section>
+
+        <img
+          src=''
+        />
       </>
      )}
     </>
