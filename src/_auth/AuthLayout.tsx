@@ -14,7 +14,7 @@ function AuthLayout() {
         </section>
 
         <img
-          src=''
+          src='/assets/images'
         />
       </>
      )}
